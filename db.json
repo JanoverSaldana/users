@@ -1,40 +1,58 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "email": "gonzalo@restyle.com",
-        "password": "gonzalo",
-        "type": "user"
-      },
-      {
-        "id": 2,
-        "email": "juan@techelp.com",
-        "password": "juan",
-        "type": "user"
-      },
-      {
-        "id": 3,
-        "email": "pedro@techelp.com",
-        "password": "pedro",
-        "type": "user"
-      },
-      {
-        "id": 4,
-        "email": "alonso@techelp.com",
-        "password": "alonso",
-        "type": "remodeler"
-      },
-      {
-        "id": 5,
-        "email": "rafael@techelp.com",
-        "password": "rafael",
-        "type": "remodeler"
-      },
-      {
-        "id": 6,
-        "email": "mariana@techelp.com",
-        "password": "mariana",
-        "type": "remodeler"
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "email": "gonzalo@restyle.com",
+      "password": "gonzalo",
+      "type": "Contracter",
+      "firstName": "Gonzalo",
+      "paternalSurname": "Gonzalez",
+      "maternalSurname": "Alvarez"
+    },
+    {
+      "id": 2,
+      "email": "juan@techelp.com",
+      "password": "juan",
+      "type": "Contracter",
+      "firstName": "Juan",
+      "paternalSurname": "Perez",
+      "maternalSurname": "Garcia"
+    },
+    {
+      "id": 3,
+      "email": "pedro@techelp.com",
+      "password": "pedro",
+      "type": "contracter",
+      "firstName": "Pedro",
+      "paternalSurname": "Garcia",
+      "maternalSurname": "Huaman"
+    },
+    {
+      "id": 4,
+      "email": "alonso@techelp.com",
+      "password": "alonso",
+      "type": "Remodeler",
+      "firstName": "Alonso",
+      "paternalSurname": "Ruiz",
+      "maternalSurname": "Galindo"
+    },
+    {
+      "id": 5,
+      "email": "rafael@techelp.com",
+      "password": "rafael",
+      "type": "Remodeler",
+      "firstName": "Rafael",
+      "paternalSurname": "Tarazona",
+      "maternalSurname": "Rojas"
+    },
+    {
+      "id": 6,
+      "email": "mariana@techelp.com",
+      "password": "mariana",
+      "type": "Remodeler",
+      "firstName": "Mariana",
+      "paternalSurname": "Hernandez",
+      "maternalSurname": "Quintero"
+    }
+  ]
+}
