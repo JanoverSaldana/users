@@ -1,0 +1,43 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "gonzalo@restyle.com",
+        "password": "gonzalo",
+        "type": "user"
+      },
+      {
+        "id": 2,
+        "email": "juan@techelp.com",
+        "password": "juan",
+        "type": "user"
+      },
+      {
+        "id": 3,
+        "email": "pedro@techelp.com",
+        "password": "pedro",
+        "type": "user"
+      },
+      {
+        "id": 4,
+        "email": "alonso@techelp.com",
+        "password": "alonso",
+        "type": "remodeler"
+      },
+      {
+        "id": 5,
+        "email": "rafael@techelp.com",
+        "password": "rafael",
+        "type": "remodeler"
+      },
+      {
+        "id": 6,
+        "email": "mariana@techelp.com",
+        "password": "mariana",
+        "type": "remodeler"
+      }
+    ]
+  }
+  
+  
+  
