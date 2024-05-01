@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "email": "juan@techelp.com",
+      "email": "juan@restyle.com",
       "password": "juan",
       "type": "Contracter",
       "firstName": "Juan",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "email": "alonso@techelp.com",
+      "email": "alonso@restyle.com",
       "password": "alonso",
       "type": "Remodeler",
       "firstName": "Alonso",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "email": "rafael@techelp.com",
+      "email": "rafael@restyle.com",
       "password": "rafael",
       "type": "Remodeler",
       "firstName": "Rafael",
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "email": "mariana@techelp.com",
+      "email": "mariana@restyle.com",
       "password": "mariana",
       "type": "Remodeler",
       "firstName": "Mariana",
